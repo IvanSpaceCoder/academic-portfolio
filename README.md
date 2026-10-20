@@ -57,3 +57,21 @@ An interactive mathematics project focused on visualizing functions and explorin
 - Connect graphical representations with the mathematical concept of definite integrals.
 
 **Current progress:** Basic graph visualization with four rectangles. Mathematical calculations and interactive controls are planned for future development.
+
+
+### 3. Kerbal Space Program — Orbital Mechanics
+
+**Status:** Ongoing learning
+
+Using Kerbal Space Program to explore the fundamentals of spaceflight through practical mission planning and spacecraft operations.
+
+**Topics explored:**
+- Launches and orbital insertion.
+- Orbital trajectories and celestial bodies.
+- Delta-v budgeting and fuel management.
+- Planning interplanetary or inter-orbital missions and return trajectories.
+
+**Next learning goals:**
+- Rendezvous and orbital transfers.
+- Spacecraft docking.
+- More advanced mission design.
