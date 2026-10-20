@@ -41,3 +41,19 @@ An interactive scientific simulator based on Newton's Law of Cooling. It models 
 - CSS styling and animation.
 
 **Links:** [Source Code](https://github.com/IvanSpaceCoder/coffee-cooling-simulator) | [Live Demo](https://ivanspacecoder.github.io/coffee-cooling-simulator/)
+
+
+### 2. Riemann Sum Calculator
+
+**Status:** In development
+
+An interactive mathematics project focused on visualizing functions and exploring Riemann sums as a method for approximating definite integrals.
+
+**Technologies:** HTML5, CSS3, JavaScript, SVG
+
+**Learning objectives:**
+- Understand how rectangle width and height contribute to area approximations.
+- Explore the relationship between the number of rectangles and approximation accuracy.
+- Connect graphical representations with the mathematical concept of definite integrals.
+
+**Current progress:** Basic graph visualization with four rectangles. Mathematical calculations and interactive controls are planned for future development.
