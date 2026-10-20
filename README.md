@@ -21,3 +21,23 @@ Academic achievements, technical projects, and my learning journey toward aerosp
 | Listening | 134/150 |
 
 This result reflects my progress in English and my commitment to continuous learning.
+
+-------------------------
+## Technical Projects
+-------------------------
+
+### 1. Coffee Cooling Simulator
+
+**Status:** Published — Version 1.0
+
+An interactive scientific simulator based on Newton's Law of Cooling. It models coffee temperature over time and combines mathematical calculations with dynamic data visualization and CSS animation.
+
+**Technologies:** HTML5, CSS3, JavaScript, Chart.js
+
+**Key learning areas:**
+- Mathematical modeling of a physical phenomenon.
+- JavaScript calculations and event handling.
+- Dynamic data visualization.
+- CSS styling and animation.
+
+**Links:** [Source Code](https://github.com/IvanSpaceCoder/coffee-cooling-simulator) | [Live Demo](https://ivanspacecoder.github.io/coffee-cooling-simulator/)
